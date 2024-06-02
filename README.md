@@ -42,7 +42,7 @@ _3. Mobile design:_
 ### Links
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Testimonials grid section page](https://auri222.github.io/Testimonials-grid-section-HTML-CSS/)
 
 ## My process
 
