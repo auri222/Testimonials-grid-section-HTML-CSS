@@ -195,7 +195,7 @@ p:not(.reviewer_name, .reviewer_tag){
   font-size: 11px;
   text-align: center;
   padding: 20px;
-  margin-top: auto; /* Make Attribution stick to the bottom */
+  margin-top: auto; /*Make Attribution stick to the bottom */
   background-color: var(--White);
 }
 
